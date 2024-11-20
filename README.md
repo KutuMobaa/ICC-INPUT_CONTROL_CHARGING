@@ -37,3 +37,9 @@ Automatic control of charging when playing games while charging
 *❖ If you select the red cross then disabling or enabling the module will not work.*
 
 # root only, do with your own risk
+#
+#
+#
+
+
+[DOWNLOAD](https://t.me/kutuMobaUpdate/454)
