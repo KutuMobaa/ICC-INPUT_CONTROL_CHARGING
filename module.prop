@@ -1,0 +1,7 @@
+id=ICC
+name= INPUT CONTROL CHARGING
+version=V 5.8
+versionCode=20
+author= Kutu Moba
+description= Automatic control of charging when playing games while charging 
+updateJson=https://raw.githubusercontent.com/KutuMobaa/ICC-INPUT_CONTROL_CHARGING/main/update.json
